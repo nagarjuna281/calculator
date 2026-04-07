@@ -16,7 +16,7 @@ This project demonstrates handling user interactions, DOM manipulation, and impl
 ---
 
 ## 🚀 Live Demo
-Try it here: [https://username.github.io/calculator/](https://username.github.io/calculator/)  
+Try it here: https://nagarjuna281.github.io/calculator/
 
 ---
 
