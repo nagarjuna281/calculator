@@ -18,6 +18,9 @@ This project demonstrates handling user interactions, DOM manipulation, and impl
 ## 🚀 Live Demo
 Try it here: https://nagarjuna281.github.io/calculator/
 
+<img width="1347" height="636" alt="Screenshot" src="https://github.com/user-attachments/assets/d3714875-cecb-4a84-a245-e5aff9a5933e" />
+
+
 ---
 
 ## 🛠️ Tech Stack
